@@ -27,3 +27,11 @@ background-color: deepskyblue;
 .styledul{
     color: blueviolet;
 }
+.my-button {
+    background-color: rgb(255, 7, 160);
+    color: rgb(0, 98, 211);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
