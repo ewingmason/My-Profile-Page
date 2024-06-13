@@ -16,22 +16,35 @@ color: rgb(0, 139, 139);
 body {
 background-color: deepskyblue;
 }
-.styleli{
+
+.styleli {
     color: crimson;
     font-weight: 300;
     font-size: 18px;
 }
-.styledil{
+
+.styledil {
     color: rgb(43, 255, 0);
 }
-.styledul{
+
+.styledul {
     color: blueviolet;
 }
+
 .my-button {
     background-color: rgb(255, 7, 160);
     color: rgb(0, 98, 211);
     padding: 10px 20px;
     border: none;
-    cursor: pointer;
-}
+    cursor: pointer;}
+
+    .images {
+        width: 300px;
+        height: auto;
+    }
+
+    .gradiant{
+        background: linear-gradient(to right, rgb(255, 4, 213), rgb(30, 255, 0),aqua);
+    }
+
 
