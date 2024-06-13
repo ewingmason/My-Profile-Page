@@ -1,0 +1,29 @@
+h1 {
+    color: hsl(177, 100%, 50%);
+text-align: center;
+}
+
+p {
+
+font-family: cursive;
+    font-size: medium
+}
+
+h2 {
+color: rgb(0, 139, 139);
+}
+
+body {
+background-color: deepskyblue;
+}
+.styleli{
+    color: crimson;
+    font-weight: 300;
+    font-size: 18px;
+}
+.styledil{
+    color: rgb(43, 255, 0);
+}
+.styledul{
+    color: blueviolet;
+}
