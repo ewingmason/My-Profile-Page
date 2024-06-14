@@ -1,5 +1,5 @@
 h1 {
-    color: hsl(177, 100%, 50%);
+    color: hsl(0, 100%, 50%);
 text-align: center;
 }
 
@@ -32,15 +32,15 @@ background-color: deepskyblue;
 }
 
 .my-button {
-    background-color: rgb(255, 7, 160);
+    background-color: rgb(255, 7, 7);
     color: rgb(0, 98, 211);
     padding: 10px 20px;
     border: none;
     cursor: pointer;}
 
     .images {
-        width: 300px;
-        height: auto;
+        width: 500px;
+        height: 250px;
     }
 
     .gradiant{
@@ -48,3 +48,16 @@ background-color: deepskyblue;
     }
 
 
+.photobox {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 5px;
+    margin: 0 auto;
+}
+.box {
+    border: 1px solid red;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: darkblue;
+    border-radius: 8px;
+}
